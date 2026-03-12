@@ -6,6 +6,10 @@
 
 `pplx` 是一个 macOS CLI 工具兼 MCP 服务，通过 Accessibility 自动化直接驱动 **Perplexity Desktop App**，将你现有的 Pro 订阅变成 Claude、OpenCode 等任意 MCP 客户端可调用的搜索后端。同时内置 Sonar REST API 后端作为备选。
 
+
+https://github.com/user-attachments/assets/b4b4fc53-a6bd-4778-8f25-2946c61f7860
+
+
 ---
 
 ## 快速上手
